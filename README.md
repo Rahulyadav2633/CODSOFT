@@ -1,5 +1,4 @@
 # CODSOFT
-All my tasks Repo
 This repository contains the tasks I have completed as part of the Codsoft Internship Program. Each task is focused on developing web projects using HTML, CSS, and JavaScript.
 <br>
 Task 1: Personal Portfolio
